@@ -13,17 +13,17 @@ export default {
 			contacts: [
 				{
 					id: 1,
-					name: 'Your Address, Your City, Your Country',
+					name: '4842+F85, Karangsari, Tegalsari, Kec. Maja, Kabupaten Majalengka, Jawa Barat 45461',
 					icon: 'map-pin',
 				},
 				{
 					id: 2,
-					name: 'email@domain.com',
+					name: 'billal.xcode@gmail.com',
 					icon: 'mail',
 				},
 				{
 					id: 3,
-					name: '555 8888 888',
+					name: '+6283896610161',
 					icon: 'phone',
 				},
 			],
